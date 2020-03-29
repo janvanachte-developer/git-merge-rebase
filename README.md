@@ -1,4 +1,4 @@
 # git-merge-rebase
 1
 2
-rebase 1
+3
